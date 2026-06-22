@@ -11,4 +11,7 @@ num1 = int(input("enter first number:"))
 num2 = int(input("enter second number:"))
 
 print(div(num1, num2))
-print(sum(num1, num2))
+
+print(mul(num1, num2))
+
+print("good luck")
